@@ -46,7 +46,7 @@ While much of my time is dedicated to my research, I also heavily advocate for s
 - 👀 Scientific Interests: Evolution, Ecology, biological complexity, microbiology, multi-omics, and DEI research
 - :joy_cat: I find time to unwind by playing intramural sports like dodgeball, hiking, crafting cocktails, cooking, reading, and being a cat mom.
 
-- 🌱 I’m currently a part of the Data Science Fellowship at University of Arizona where I hope to learn about Data management, Open Science techniques and tools, how to more efficiently write code and share code, and also finding a data science community as a wet bench researcher!
+- 🌱 I’m currently a part of the Data Science Fellowship at University of Arizona where I hope to learn about Data management, Open Science techniques and tools, how to more efficiently write code and share code, and also finding a data science community as a clinical translational researcher!
 
 - :+1: Are you looking to collaborate? are you interested in the microbiome? Reach out! Microbiome can intersect with many fields!
 
