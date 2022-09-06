@@ -41,6 +41,11 @@ While much of my time is dedicated to my research, I also heavily advocate for s
 
 - 📫 How to reach me: nicolejimenez@arizona.edu
 
+ <div id="header" align="right">
+  <img src="https://media.giphy.com/media/fUwoimIdxTtII/giphy.gif" width="500"/>
+</div>
+
+
 <!---
 jimeneznr/jimeneznr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
