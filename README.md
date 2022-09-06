@@ -17,7 +17,18 @@ Check out our projcts here: https://herbstkralovetzlab.weebly.com/team.html
  
  
  
- I am currently facilitating research investigating the cervicovaginal microbiome and its role in endometrial cancer and gynecologic conditions like endometriosis. Specifically, I am utilizing my skills in microbiome analysis, microbial genomics, computational biology to better understand potential oncogenic bacteria and beneficial bacteria like Lactobacillus and their contributions to the cervicovaginal microenvironment in health and disease. I am delighted to be part of Dr. Herbst-Kralovetz’s lab as we are currently using multi-omic approaches with immunoproteomics, metabolomics, and genomics in conjunction with the lab’s 3-D human cell models and large clinical studies to set the foundation for creation of innovative microbial biomarker diagnostics. In addition, our lab’s societal goals of expediting the research pipeline from bench to bedside tries to focus on health disparities within gynecologic conditions in context to Arizona’s diverse populations with many studies focusing on the Hispanic/Latinx, Native American, Aging communities. I was recently awarded a postdoctoral fellowship from the Community Foundation for Southern Arizona to begin work on studying three novel bacteria that were recently classified as Atopobium vaginae, a key vaginal bacteria linked to the most common vaginal disorder bacterial vaginosis, that has also recently been associated with cervical and endometrial cancers. We hypothesize that there are different cancer-causing contributions amongst these three novel vaginal bacteria.
+ I am currently facilitating research investigating the cervicovaginal microbiome and its role in endometrial cancer and gynecologic conditions like endometriosis. Specifically, I am utilizing my skills in microbiome analysis, microbial genomics, computational biology to better understand potential oncogenic bacteria and beneficial bacteria like Lactobacillus and their contributions to the cervicovaginal microenvironment in health and disease.
+ 
+ 
+ 
+ 
+ I am delighted to be part of Dr. Herbst-Kralovetz’s lab as we are currently using multi-omic approaches with immunoproteomics, metabolomics, and genomics in conjunction with the lab’s 3-D human cell models and large clinical studies to set the foundation for creation of innovative microbial biomarker diagnostics. 
+ 
+ 
+ In addition, our lab’s societal goals of expediting the research pipeline from bench to bedside tries to focus on health disparities within gynecologic conditions in context to Arizona’s diverse populations with many studies focusing on the Hispanic/Latinx, Native American, Aging communities.
+ 
+ 
+ I was recently awarded a postdoctoral fellowship from the Community Foundation for Southern Arizona to begin work on studying three novel bacteria that were recently classified as Atopobium vaginae, a key vaginal bacteria linked to the most common vaginal disorder bacterial vaginosis, that has also recently been associated with cervical and endometrial cancers. We hypothesize that there are different cancer-causing contributions amongst these three novel vaginal bacteria.
  
  <div id="header" align="right">
   <img src="https://media.giphy.com/media/G8k4UcUNIhFSM/giphy.gif" width="500"/>
