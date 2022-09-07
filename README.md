@@ -19,12 +19,13 @@
  
  **I am currently facilitating research investigating the cervicovaginal microbiome and its role in endometrial cancer and gynecologic conditions like endometriosis. Specifically, I am utilizing my skills in microbiome analysis, microbial genomics, computational biology to better understand potential oncogenic bacteria and beneficial bacteria like *Lactobacillus* and their contributions to the cervicovaginal microenvironment in health and disease.**
  
- ![alt text]( https://github.com/jimeneznr/AboutMe/blob/main/cancer_microbiome.png "Logo Title Text 1")
+ ![alt text]( https://github.com/jimeneznr/AboutMe/blob/main/cancer_microbiome.png "Cancer cervicovaginal microbiome paradigm")
  **Figure 1**.  Hypothetical model of mechanisms employed by cervicovaginal bacteria, including *Atopobium/Fannyhessea*, leading to gynecologic cancer development and progression. A healthy cervicovaginal microbiome is associated with *Lactobacillus*-dominance and low pH (left). Dysbiotic cervicovaginal microbiomes are associated with high pH, diverse anaerobic species such as *Atopobium/Fannyhessea* species, and hallmarks of cancer. Figure adapted from [Laniewski et al, 2020](https://pubmed.ncbi.nlm.nih.gov/32071434/).
  
  
  **I am delighted to be part of Dr. Herbst-Kralovetz’s lab as we are currently using multi-omic approaches with immunoproteomics, metabolomics, and genomics in conjunction with the lab’s 3-D human cell models and large clinical studies to set the foundation for creation of innovative microbial biomarker diagnostics.** 
- 
+  ![alt text]( https://github.com/jimeneznr/AboutMe/blob/main/cancer_microbiome.png "3D cell culture model")
+  https://pubmed.ncbi.nlm.nih.gov/34903740/
  
  
  
