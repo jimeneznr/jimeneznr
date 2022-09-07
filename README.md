@@ -62,7 +62,7 @@ Check out our projects here: https://herbstkralovetzlab.weebly.com
 
 - :+1: Are you looking to collaborate? are you interested in the microbiome? Reach out! Microbiome can intersect with many fields!
 
-- 📫 How to reach me: nicolejimenez@arizona.edu
+- 📫 How to reach me: nicolejimenez@arizona.edu , https://www.instagram.com/prettyfly4asci , https://mobile.twitter.com/scientistnicole
 
 
  <div id="header" align="right">
