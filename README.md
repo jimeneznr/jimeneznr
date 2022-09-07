@@ -15,11 +15,11 @@
 **Check out our projcts here: https://herbstkralovetzlab.weebly.com/team.html**
  
  - Endometiral Cancer and the Gut,Vaginal and Endometerial Microbiome
- - Endometrial Cancer versus Benign Conditions and Quality of Life Surveys
+ - Quality of Life and Symptomology amongst Patients with Endometrial Cancer versus Benign Uterine Conditions 
  - Chronic Pelvic Pain, Endometriosis, and the Gut and Vaginal Microbiome
- - Immunometabolic contributions of vaginal *lactobaciilus* species
+ - Immunometabolic Contributions of Vaginal *lactobaciilus* species in 3D Cervical Epithelial Cell Model
  - Adenomyosis, Microbiome, and Quality of Life
- - 
+ - Cervical Cancer, HPV and Cervicovaginal Microbiome amongst Latinx Communities
  
  
  **I am currently facilitating research investigating the cervicovaginal microbiome and its role in endometrial cancer and gynecologic conditions like endometriosis. Specifically, I am utilizing my skills in microbiome analysis, microbial genomics, computational biology to better understand potential oncogenic bacteria and beneficial bacteria like *Lactobacillus* and their contributions to the cervicovaginal microenvironment in health and disease.**
