@@ -12,8 +12,9 @@
 **I’m Nicole Jimenez a Obstetrics/Gynecology Postdoctoral Research Fellow at the University of Arizona College of Medicine-Phoenix. I currently work in Dr. Melissa Herbst-Kralovetz's lab and have been using both my passion for advocacy work and science to assist with my research on the human microbiome reproductive health.**
 
 
-**Check out our projcts here: https://herbstkralovetzlab.weebly.com/team.html**
+Check out our projects here: https://herbstkralovetzlab.weebly.com
  
+ **Just a few of the on-going projects**
  - Endometiral Cancer and the Gut,Vaginal and Endometerial Microbiome
  - Quality of Life and Symptomology amongst Patients with Endometrial Cancer versus Benign Uterine Conditions 
  - Chronic Pelvic Pain, Endometriosis, and the Gut and Vaginal Microbiome
