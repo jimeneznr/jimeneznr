@@ -24,8 +24,11 @@
  
  
  **I am delighted to be part of Dr. Herbst-Kralovetz’s lab as we are currently using multi-omic approaches with immunoproteomics, metabolomics, and genomics in conjunction with the lab’s 3-D human cell models and large clinical studies to set the foundation for creation of innovative microbial biomarker diagnostics.** 
-  ![alt text]( https://github.com/jimeneznr/AboutMe/blob/main/cancer_microbiome.png "3D cell culture model")
-  https://pubmed.ncbi.nlm.nih.gov/34903740/
+ 
+ 
+  ![alt text]( https://github.com/jimeneznr/AboutMe/blob/main/3-d%20cell%20model.jpg "3D cell culture model")
+      [Laniewski et al, 2021](https://pubmed.ncbi.nlm.nih.gov/34903740/)
+
  
  
  
@@ -34,11 +37,13 @@
  
  **I was recently awarded a postdoctoral fellowship from the Community Foundation for Southern Arizona [(see article here)](https://phoenixmed.arizona.edu/young-investigators/jimenez) to begin work on studying three novel bacteria that were recently classified as *Atopobium vaginae*, a key vaginal bacteria linked to the most common vaginal disorder bacterial vaginosis, that has also recently been associated with cervical and endometrial cancers. We hypothesize that there are different cancer-causing contributions amongst these three novel vaginal bacteria.**
  
+
+
+**Prior to joining the Wildcats, my Ph.D. work was centered on research working with VCU’s Vaginal Microbiome Consortium (VMC). This work encompassed comparative genomics of cervicovaginal bacteria especially Bifidobacterium species, understanding correlations between the cervicovaginal microbiome in reproductive health and disease, as well as maternal-infant microbial transmission and toddler health progression. In undergrad at Arizona State University, I was involved with both anthropology and ecology research which has helped bring a different perspective to my human microbiome research.**
+
  <div id="header" align="right">
   <img src="https://media.giphy.com/media/G8k4UcUNIhFSM/giphy.gif" width="500"/>
 </div>
-
-**Prior to joining the Wildcats, my Ph.D. work was centered on research working with VCU’s Vaginal Microbiome Consortium (VMC). This work encompassed comparative genomics of cervicovaginal bacteria especially Bifidobacterium species, understanding correlations between the cervicovaginal microbiome in reproductive health and disease, as well as maternal-infant microbial transmission and toddler health progression. In undergrad at Arizona State University, I was involved with both anthropology and ecology research which has helped bring a different perspective to my human microbiome research.**
 
  <div id="header" align="left">
   <img src="https://media.giphy.com/media/mFr9lnFEI7Avd9jQyV/giphy.gif" width="300"/>
