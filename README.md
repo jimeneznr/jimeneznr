@@ -36,18 +36,18 @@
   ![alt text]( https://github.com/jimeneznr/AboutMe/blob/main/aim_cfsa.png "Novel bacteria of interest in Gynecologic Cancer")
 
 
-**Prior to joining the Wildcats, my Ph.D. work was centered on research working with VCU’s Vaginal Microbiome Consortium (VMC). This work encompassed comparative genomics of cervicovaginal bacteria especially Bifidobacterium species, understanding correlations between the cervicovaginal microbiome in reproductive health and disease, as well as maternal-infant microbial transmission and toddler health progression. In undergrad at Arizona State University, I was involved with both anthropology and ecology research which has helped bring a different perspective to my human microbiome research.**
+**Prior to joining the Wildcats, my Ph.D. work was centered on research working with VCU’s Vaginal Microbiome Consortium (VMC). This work encompassed comparative genomics of cervicovaginal bacteria especially *Bifidobacterium species*, understanding correlations between the cervicovaginal microbiome in reproductive health and disease, as well as maternal-infant microbial transmission and toddler health progression. In undergrad at Arizona State University, I was involved with both anthropology and ecology which has helped bring a different perspective to my human microbiome research.**
 
  <div id="header" align="right">
   <img src="https://media.giphy.com/media/G8k4UcUNIhFSM/giphy.gif" width="500"/>
 </div>
 
- <div id="header" align="left">
-  <img src="https://media.giphy.com/media/mFr9lnFEI7Avd9jQyV/giphy.gif" width="300"/>
-</div>
 
 **While much of my time is dedicated to my research, I also heavily advocate for science, STEM education, diversity, and mental health and well-being for the community :earth_asia:. These outside activities have taught me the importance of inclusivity in research and dissemination of science to the public.**
 
+ <div id="header" align="left">
+  <img src="https://media.giphy.com/media/mFr9lnFEI7Avd9jQyV/giphy.gif" width="300"/>
+</div>
 
 - 👀 Scientific Interests: Evolution, Ecology, biological complexity, microbiology, multi-omics, and DEI research
 - :joy_cat: I find time to unwind by playing intramural sports like dodgeball, hiking, crafting cocktails, cooking, reading, and being a cat mom.
