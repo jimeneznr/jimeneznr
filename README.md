@@ -22,6 +22,7 @@
  ![alt text]( https://github.com/jimeneznr/AboutMe/blob/main/cancer_microbiome.png "Cancer cervicovaginal microbiome paradigm")
  **Figure 1**.  Hypothetical model of mechanisms employed by cervicovaginal bacteria, including *Atopobium/Fannyhessea*, leading to gynecologic cancer development and progression. A healthy cervicovaginal microbiome is associated with *Lactobacillus*-dominance and low pH (left). Dysbiotic cervicovaginal microbiomes are associated with high pH, diverse anaerobic species such as *Atopobium/Fannyhessea* species, and hallmarks of cancer. Figure adapted from [Laniewski et al, 2020](https://pubmed.ncbi.nlm.nih.gov/32071434/).
  
+  **In addition, our lab’s societal goals of expediting the research pipeline from bench to bedside tries to focus on health disparities within gynecologic conditions in context to Arizona’s diverse populations with many studies focusing on the [Hispanic/Latinx](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5954126/),  [Native American](https://cancercenter.arizona.edu/researchers/collaborative-research/nacp), [Aging](https://www.nature.com/articles/s41564-022-01071-6) communities.**
  
  **I am delighted to be part of Dr. Herbst-Kralovetz’s lab as we are currently using multi-omic approaches with immunoproteomics, metabolomics, and genomics in conjunction with the lab’s 3-D human cell models and large clinical studies to set the foundation for creation of innovative microbial biomarker diagnostics.** 
  
@@ -30,13 +31,9 @@
       [Laniewski et al, 2021](https://pubmed.ncbi.nlm.nih.gov/34903740/)
 
  
- 
- 
- **In addition, our lab’s societal goals of expediting the research pipeline from bench to bedside tries to focus on health disparities within gynecologic conditions in context to Arizona’s diverse populations with many studies focusing on the Hispanic/Latinx, Native American, Aging communities.**
- 
- 
  **I was recently awarded a postdoctoral fellowship from the Community Foundation for Southern Arizona [(see article here)](https://phoenixmed.arizona.edu/young-investigators/jimenez) to begin work on studying three novel bacteria that were recently classified as *Atopobium vaginae*, a key vaginal bacteria linked to the most common vaginal disorder bacterial vaginosis, that has also recently been associated with cervical and endometrial cancers. We hypothesize that there are different cancer-causing contributions amongst these three novel vaginal bacteria.**
- 
+
+  ![alt text]( https://github.com/jimeneznr/AboutMe/blob/main/aim_cfsa.png "Novel bacteria of interest in Gynecologic Cancer")
 
 
 **Prior to joining the Wildcats, my Ph.D. work was centered on research working with VCU’s Vaginal Microbiome Consortium (VMC). This work encompassed comparative genomics of cervicovaginal bacteria especially Bifidobacterium species, understanding correlations between the cervicovaginal microbiome in reproductive health and disease, as well as maternal-infant microbial transmission and toddler health progression. In undergrad at Arizona State University, I was involved with both anthropology and ecology research which has helped bring a different perspective to my human microbiome research.**
@@ -60,6 +57,7 @@
 - :+1: Are you looking to collaborate? are you interested in the microbiome? Reach out! Microbiome can intersect with many fields!
 
 - 📫 How to reach me: nicolejimenez@arizona.edu
+
 
  <div id="header" align="right">
   <img src="https://media.giphy.com/media/fUwoimIdxTtII/giphy.gif" width="500"/>
