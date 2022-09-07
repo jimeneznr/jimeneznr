@@ -28,7 +28,7 @@ Check out our projcts here: https://herbstkralovetzlab.weebly.com/team.html
  In addition, our lab’s societal goals of expediting the research pipeline from bench to bedside tries to focus on health disparities within gynecologic conditions in context to Arizona’s diverse populations with many studies focusing on the Hispanic/Latinx, Native American, Aging communities.
  
  
- I was recently awarded a postdoctoral fellowship from the Community Foundation for Southern Arizona to begin work on studying three novel bacteria that were recently classified as Atopobium vaginae, a key vaginal bacteria linked to the most common vaginal disorder bacterial vaginosis, that has also recently been associated with cervical and endometrial cancers. We hypothesize that there are different cancer-causing contributions amongst these three novel vaginal bacteria.
+ I was recently awarded a postdoctoral fellowship from the Community Foundation for Southern Arizona [(see article here)](https://phoenixmed.arizona.edu/young-investigators/jimenez) to begin work on studying three novel bacteria that were recently classified as Atopobium vaginae, a key vaginal bacteria linked to the most common vaginal disorder bacterial vaginosis, that has also recently been associated with cervical and endometrial cancers. We hypothesize that there are different cancer-causing contributions amongst these three novel vaginal bacteria.
  
  <div id="header" align="right">
   <img src="https://media.giphy.com/media/G8k4UcUNIhFSM/giphy.gif" width="500"/>
@@ -46,7 +46,7 @@ While much of my time is dedicated to my research, I also heavily advocate for s
 - 👀 Scientific Interests: Evolution, Ecology, biological complexity, microbiology, multi-omics, and DEI research
 - :joy_cat: I find time to unwind by playing intramural sports like dodgeball, hiking, crafting cocktails, cooking, reading, and being a cat mom.
 
-- 🌱 I’m currently a part of the Data Science Fellowship at University of Arizona where I hope to learn about Data management, Open Science techniques and tools, how to more efficiently write code and share code, and also finding a data science community as a clinical translational researcher!
+- 🌱 I’m currently a part of the [Data Science Fellowship](https://datascience.arizona.edu/education/data-science-fellows#:~:text=The%20Data%20Science%20Fellows%20program,in%20health%20and%20biomedical%20sciences.) at University of Arizona where I hope to learn about Data management, Open Science techniques and tools, how to more efficiently write code and share code, and also finding a data science community as a clinical translational researcher!
 
 - :+1: Are you looking to collaborate? are you interested in the microbiome? Reach out! Microbiome can intersect with many fields!
 
