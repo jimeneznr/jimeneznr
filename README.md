@@ -39,7 +39,7 @@ Check out our projects here: https://herbstkralovetzlab.weebly.com
  
  **I was recently awarded a postdoctoral fellowship from the Community Foundation for Southern Arizona [(see article here)](https://phoenixmed.arizona.edu/young-investigators/jimenez) to begin work on studying three novel bacteria that were recently classified as *Atopobium vaginae*, a key vaginal bacteria linked to the most common vaginal disorder bacterial vaginosis, that has also recently been associated with cervical and endometrial cancers. We hypothesize that there are different cancer-causing contributions amongst these three novel vaginal bacteria.**
 
-  ![alt text]( https://github.com/jimeneznr/AboutMe/blob/main/aim_cfsa.png "Novel bacteria of interest in Gynecologic Cancer")
+ 
 
 
 **Prior to joining the Wildcats, my Ph.D. work was centered on research working with VCU’s Vaginal Microbiome Consortium (VMC). This work encompassed comparative genomics of cervicovaginal bacteria especially *Bifidobacterium species*, understanding correlations between the cervicovaginal microbiome in reproductive health and disease, as well as maternal-infant microbial transmission and toddler health progression. In undergrad at Arizona State University, I was involved with both anthropology and ecology which has helped bring a different perspective to my human microbiome research.**
